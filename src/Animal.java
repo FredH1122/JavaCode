@@ -1,5 +1,6 @@
 // From Github to local - Practice 
 // Version 3
+// Version 4 October 20
 class Animal {
     public void animalSound() {
         System.out.println("The animal makes a sound");
@@ -14,7 +15,7 @@ class Pig extends Animal {
 
 class Dog extends Animal {
     public void animalSound() {
-        System.out.println("The dog says: bow wow");
+        System.out.println("The dog says: Wow Wow");
     }
 }
 
